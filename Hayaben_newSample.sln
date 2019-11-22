@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hayaben_newSample", "Hayaben_newSample.csproj", "{334AD65F-2FAE-B147-00E2-447C547861BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hayaben_newSample.Editor.Plugins", "Hayaben_newSample.Editor.Plugins.csproj", "{6932B02B-321B-A2A3-E18C-C8B1B3C9DA97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{334AD65F-2FAE-B147-00E2-447C547861BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{334AD65F-2FAE-B147-00E2-447C547861BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{334AD65F-2FAE-B147-00E2-447C547861BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{334AD65F-2FAE-B147-00E2-447C547861BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6932B02B-321B-A2A3-E18C-C8B1B3C9DA97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6932B02B-321B-A2A3-E18C-C8B1B3C9DA97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6932B02B-321B-A2A3-E18C-C8B1B3C9DA97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6932B02B-321B-A2A3-E18C-C8B1B3C9DA97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
